@@ -1,0 +1,21 @@
+width      : 31
+height     : 15
+tileWidth  : 16
+tileHeight : 16
+spacing    : 0
+margin     : 0
+solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	
+solid			weak			weak			weak	weak			weak			weak			weak	weak			weak	weak	weak		weak			solid	
+solid		solid	weak	solid		solid	weak	solid	weak	solid		solid		solid		solid		solid	weak	solid		solid	weak	solid	weak	solid	weak	solid		solid	
+solid	weak		weak	weak		weak		weak		weak	weak		weak		weak		weak		weak		weak		weak	weak	weak		weak	weak	weak	solid	
+solid	weak	solid		solid		solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid		solid		solid		solid		solid	
+solid	weak		weak	weak	weak	weak		solid		weak				weak				weak				weak	weak	weak	weak			weak	weak	solid	
+solid		solid		solid	weak	solid		solid		solid		solid		solid		solid		solid		solid	weak	solid		solid		solid	weak	solid		solid	
+solid			weak		weak	solid				solid		solid		solid				solid				solid	weak	weak	weak		weak		weak	solid	
+solid	weak	solid		solid	weak	solid		solid		solid		solid		solid		solid	weak	solid		solid	weak	solid		solid		solid	weak	solid	weak	solid	
+solid			weak		weak	weak		solid		weak				weak		solid	weak	weak				weak	weak				weak			solid	
+solid		solid		solid		solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid	weak	solid		solid		solid		solid	weak	solid	
+solid	weak	weak		weak	weak	weak				weak	weak			weak			weak	weak	weak	weak	weak	weak	weak	weak	weak	weak	weak		weak	solid	
+solid		solid		solid		solid		solid		solid	weak	solid		solid		solid		solid		solid		solid	weak	solid		solid		solid	weak	solid	
+solid		weak	weak			weak	weak	weak			weak				weak	weak		weak	weak				weak	weak	weak					solid	
+solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	solid	

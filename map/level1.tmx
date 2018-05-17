@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.1.3" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" infinite="0" nextobjectid="321">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="../img/tileset (2).png" width="64" height="64"/>
+  <tile id="0">
+   <properties>
+    <property name="isWall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="isWall" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Background" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoD5gphJGNo8QTYyaUfeNum/UffR3HzUBAKVmT3KwBAAA
+  </data>
+ </layer>
+ <layer name="Blocks" width="20" height="15">
+  <properties>
+   <property name="destroyable" value="false"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NiYGBgojKmFkA2jxBNjJpR9426b9R99HcfNTEAURb16rAEAAA=
+  </data>
+ </layer>
+ <objectgroup name="Blocks">
+  <object id="206" name="Blocks" type="solid" x="0" y="0" width="32" height="32"/>
+  <object id="207" name="Blocks" type="solid" x="32" y="0" width="32" height="32"/>
+  <object id="208" name="Blocks" type="solid" x="64" y="0" width="32" height="32"/>
+  <object id="209" name="Blocks" type="solid" x="96" y="0" width="32" height="32"/>
+  <object id="210" name="Blocks" type="solid" x="128" y="0" width="32" height="32"/>
+  <object id="211" name="Blocks" type="solid" x="160" y="0" width="32" height="32"/>
+  <object id="212" name="Blocks" type="solid" x="192" y="0" width="32" height="32"/>
+  <object id="213" name="Blocks" type="solid" x="224" y="0" width="32" height="32"/>
+  <object id="214" name="Blocks" type="solid" x="256" y="0" width="32" height="32"/>
+  <object id="215" name="Blocks" type="solid" x="288" y="0" width="32" height="32"/>
+  <object id="216" name="Blocks" type="solid" x="320" y="0" width="32" height="32"/>
+  <object id="217" name="Blocks" type="solid" x="352" y="0" width="32" height="32"/>
+  <object id="218" name="Blocks" type="solid" x="384" y="0" width="32" height="32"/>
+  <object id="219" name="Blocks" type="solid" x="416" y="0" width="32" height="32"/>
+  <object id="220" name="Blocks" type="solid" x="448" y="0" width="32" height="32"/>
+  <object id="221" name="Blocks" type="solid" x="480" y="0" width="32" height="32"/>
+  <object id="222" name="Blocks" type="solid" x="512" y="0" width="32" height="32"/>
+  <object id="223" name="Blocks" type="solid" x="544" y="0" width="32" height="32"/>
+  <object id="224" name="Blocks" type="solid" x="576" y="0" width="32" height="32"/>
+  <object id="225" name="Blocks" type="solid" x="608" y="0" width="32" height="32"/>
+  <object id="226" name="Blocks" type="solid" x="0" y="32" width="32" height="32"/>
+  <object id="227" name="Blocks" type="solid" x="608" y="32" width="32" height="32"/>
+  <object id="228" name="Blocks" type="solid" x="0" y="64" width="32" height="32"/>
+  <object id="229" name="Blocks" type="solid" x="64" y="64" width="32" height="32"/>
+  <object id="230" name="Blocks" type="solid" x="128" y="64" width="32" height="32"/>
+  <object id="231" name="Blocks" type="solid" x="192" y="64" width="32" height="32"/>
+  <object id="232" name="Blocks" type="solid" x="256" y="64" width="32" height="32"/>
+  <object id="233" name="Blocks" type="solid" x="352" y="64" width="32" height="32"/>
+  <object id="234" name="Blocks" type="solid" x="416" y="64" width="32" height="32"/>
+  <object id="235" name="Blocks" type="solid" x="480" y="64" width="32" height="32"/>
+  <object id="236" name="Blocks" type="solid" x="544" y="64" width="32" height="32"/>
+  <object id="237" name="Blocks" type="solid" x="608" y="64" width="32" height="32"/>
+  <object id="238" name="Blocks" type="solid" x="0" y="96" width="32" height="32"/>
+  <object id="239" name="Blocks" type="solid" x="608" y="96" width="32" height="32"/>
+  <object id="240" name="Blocks" type="solid" x="0" y="128" width="32" height="32"/>
+  <object id="241" name="Blocks" type="solid" x="64" y="128" width="32" height="32"/>
+  <object id="242" name="Blocks" type="solid" x="128" y="128" width="32" height="32"/>
+  <object id="243" name="Blocks" type="solid" x="192" y="128" width="32" height="32"/>
+  <object id="244" name="Blocks" type="solid" x="256" y="128" width="32" height="32"/>
+  <object id="245" name="Blocks" type="solid" x="352" y="128" width="32" height="32"/>
+  <object id="246" name="Blocks" type="solid" x="416" y="128" width="32" height="32"/>
+  <object id="247" name="Blocks" type="solid" x="480" y="128" width="32" height="32"/>
+  <object id="248" name="Blocks" type="solid" x="544" y="128" width="32" height="32"/>
+  <object id="249" name="Blocks" type="solid" x="608" y="128" width="32" height="32"/>
+  <object id="250" name="Blocks" type="solid" x="0" y="160" width="32" height="32"/>
+  <object id="251" name="Blocks" type="solid" x="608" y="160" width="32" height="32"/>
+  <object id="252" name="Blocks" type="solid" x="0" y="192" width="32" height="32"/>
+  <object id="253" name="Blocks" type="solid" x="64" y="192" width="32" height="32"/>
+  <object id="254" name="Blocks" type="solid" x="128" y="192" width="32" height="32"/>
+  <object id="255" name="Blocks" type="solid" x="192" y="192" width="32" height="32"/>
+  <object id="256" name="Blocks" type="solid" x="256" y="192" width="32" height="32"/>
+  <object id="257" name="Blocks" type="solid" x="352" y="192" width="32" height="32"/>
+  <object id="258" name="Blocks" type="solid" x="416" y="192" width="32" height="32"/>
+  <object id="259" name="Blocks" type="solid" x="480" y="192" width="32" height="32"/>
+  <object id="260" name="Blocks" type="solid" x="544" y="192" width="32" height="32"/>
+  <object id="262" name="Blocks" type="solid" x="608" y="192" width="32" height="32"/>
+  <object id="263" name="Blocks" type="solid" x="0" y="224" width="32" height="32"/>
+  <object id="264" name="Blocks" type="solid" x="608" y="224" width="32" height="32"/>
+  <object id="265" name="Blocks" type="solid" x="0" y="256" width="32" height="32"/>
+  <object id="266" name="Blocks" type="solid" x="64" y="256" width="32" height="32"/>
+  <object id="267" name="Blocks" type="solid" x="128" y="256" width="32" height="32"/>
+  <object id="268" name="Blocks" type="solid" x="192" y="256" width="32" height="32"/>
+  <object id="269" name="Blocks" type="solid" x="256" y="256" width="32" height="32"/>
+  <object id="270" name="Blocks" type="solid" x="352" y="256" width="32" height="32"/>
+  <object id="271" name="Blocks" type="solid" x="416" y="256" width="32" height="32"/>
+  <object id="272" name="Blocks" type="solid" x="480" y="256" width="32" height="32"/>
+  <object id="273" name="Blocks" type="solid" x="544" y="256" width="32" height="32"/>
+  <object id="274" name="Blocks" type="solid" x="608" y="256" width="32" height="32"/>
+  <object id="275" name="Blocks" type="solid" x="0" y="288" width="32" height="32"/>
+  <object id="276" name="Blocks" type="solid" x="608" y="288" width="32" height="32"/>
+  <object id="277" name="Blocks" type="solid" x="0" y="320" width="32" height="32"/>
+  <object id="278" name="Blocks" type="solid" x="64" y="320" width="32" height="32"/>
+  <object id="279" name="Blocks" type="solid" x="128" y="320" width="32" height="32"/>
+  <object id="280" name="Blocks" type="solid" x="192" y="320" width="32" height="32"/>
+  <object id="281" name="Blocks" type="solid" x="256" y="320" width="32" height="32"/>
+  <object id="282" name="Blocks" type="solid" x="352" y="320" width="32" height="32"/>
+  <object id="283" name="Blocks" type="solid" x="416" y="320" width="32" height="32"/>
+  <object id="284" name="Blocks" type="solid" x="480" y="320" width="32" height="32"/>
+  <object id="285" name="Blocks" type="solid" x="544" y="320" width="32" height="32"/>
+  <object id="286" name="Blocks" type="solid" x="608" y="320" width="32" height="32"/>
+  <object id="287" name="Blocks" type="solid" x="0" y="352" width="32" height="32"/>
+  <object id="288" name="Blocks" type="solid" x="608" y="352" width="32" height="32"/>
+  <object id="289" name="Blocks" type="solid" x="0" y="384" width="32" height="32"/>
+  <object id="290" name="Blocks" type="solid" x="64" y="384" width="32" height="32"/>
+  <object id="291" name="Blocks" type="solid" x="128" y="384" width="32" height="32"/>
+  <object id="292" name="Blocks" type="solid" x="192" y="384" width="32" height="32"/>
+  <object id="293" name="Blocks" type="solid" x="256" y="384" width="32" height="32"/>
+  <object id="294" name="Blocks" type="solid" x="352" y="384" width="32" height="32"/>
+  <object id="295" name="Blocks" type="solid" x="416" y="384" width="32" height="32"/>
+  <object id="296" name="Blocks" type="solid" x="480" y="384" width="32" height="32"/>
+  <object id="297" name="Blocks" type="solid" x="544" y="384" width="32" height="32"/>
+  <object id="298" name="Blocks" type="solid" x="608" y="384" width="32" height="32"/>
+  <object id="299" name="Blocks" type="solid" x="0" y="416" width="32" height="32"/>
+  <object id="300" name="Blocks" type="solid" x="608" y="416" width="32" height="32"/>
+  <object id="301" name="Blocks" type="solid" x="0" y="448" width="32" height="32"/>
+  <object id="302" name="Blocks" type="solid" x="32" y="448" width="32" height="32"/>
+  <object id="303" name="Blocks" type="solid" x="64" y="448" width="32" height="32"/>
+  <object id="304" name="Blocks" type="solid" x="96" y="448" width="32" height="32"/>
+  <object id="305" name="Blocks" type="solid" x="128" y="448" width="32" height="32"/>
+  <object id="306" name="Blocks" type="solid" x="160" y="448" width="32" height="32"/>
+  <object id="307" name="Blocks" type="solid" x="192" y="448" width="32" height="32"/>
+  <object id="308" name="Blocks" type="solid" x="224" y="448" width="32" height="32"/>
+  <object id="309" name="Blocks" type="solid" x="256" y="448" width="32" height="32"/>
+  <object id="310" name="Blocks" type="solid" x="288" y="448" width="32" height="32"/>
+  <object id="311" name="Blocks" type="solid" x="320" y="448" width="32" height="32"/>
+  <object id="312" name="Blocks" type="solid" x="352" y="448" width="32" height="32"/>
+  <object id="313" name="Blocks" type="solid" x="384" y="448" width="32" height="32"/>
+  <object id="314" name="Blocks" type="solid" x="416" y="448" width="32" height="32"/>
+  <object id="315" name="Blocks" type="solid" x="448" y="448" width="32" height="32"/>
+  <object id="316" name="Blocks" type="solid" x="480" y="448" width="32" height="32"/>
+  <object id="317" name="Blocks" type="solid" x="512" y="448" width="32" height="32"/>
+  <object id="318" name="Blocks" type="solid" x="544" y="448" width="32" height="32"/>
+  <object id="319" name="Blocks" type="solid" x="576" y="448" width="32" height="32"/>
+  <object id="320" name="Blocks" type="solid" x="608" y="448" width="32" height="32"/>
+ </objectgroup>
+ <layer name="Bricks" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSMgqEBAGlKTgywBAAA
+  </data>
+ </layer>
+</map>

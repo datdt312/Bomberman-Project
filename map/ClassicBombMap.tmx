@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="31" height="15" tilewidth="16" tileheight="16" infinite="0" backgroundcolor="#00ff7f" nextobjectid="492">
+ <tileset firstgid="1" name="Block_Brick" tilewidth="16" tileheight="16" tilecount="9" columns="9">
+  <image source="../img/Block_Brick.png" width="144" height="16"/>
+ </tileset>
+ <layer name="Border" width="31" height="15">
+  <data>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+  </data>
+ </layer>
+ <objectgroup name="Border">
+  <object id="23" name="Border" type="solid" x="32" y="32" width="16" height="16"/>
+  <object id="24" name="Border" type="solid" x="64" y="32" width="16" height="16"/>
+  <object id="25" name="Border" type="solid" x="96" y="32" width="16" height="16"/>
+  <object id="26" name="Border" type="solid" x="128" y="32" width="16" height="16"/>
+  <object id="31" name="Border" type="solid" x="160" y="32" width="16" height="16"/>
+  <object id="32" name="Border" type="solid" x="192" y="32" width="16" height="16"/>
+  <object id="33" name="Border" type="solid" x="224" y="32" width="16" height="16"/>
+  <object id="34" name="Border" type="solid" x="256" y="32" width="16" height="16"/>
+  <object id="35" name="Border" type="solid" x="256" y="64" width="16" height="16"/>
+  <object id="36" name="Border" type="solid" x="224" y="64" width="16" height="16"/>
+  <object id="37" name="Border" type="solid" x="192" y="64" width="16" height="16"/>
+  <object id="38" name="Border" type="solid" x="160" y="64" width="16" height="16"/>
+  <object id="39" name="Border" type="solid" x="96" y="64" width="16" height="16"/>
+  <object id="44" name="Border" type="solid" x="64" y="64" width="16" height="16"/>
+  <object id="45" name="Border" type="solid" x="32" y="64" width="16" height="16"/>
+  <object id="46" name="Border" type="solid" x="32" y="96" width="16" height="16"/>
+  <object id="47" name="Border" type="solid" x="32" y="128" width="16" height="16"/>
+  <object id="48" name="Border" type="solid" x="32" y="160" width="16" height="16"/>
+  <object id="49" name="Border" type="solid" x="32" y="192" width="16" height="16"/>
+  <object id="50" name="Border" type="solid" x="64" y="96" width="16" height="16"/>
+  <object id="51" name="Border" type="solid" x="64" y="128" width="16" height="16"/>
+  <object id="52" name="Border" type="solid" x="64" y="160" width="16" height="16"/>
+  <object id="53" name="Border" type="solid" x="64" y="192" width="16" height="16"/>
+  <object id="54" name="Border" type="solid" x="96" y="192" width="16" height="16"/>
+  <object id="55" name="Border" type="solid" x="96" y="160" width="16" height="16"/>
+  <object id="56" name="Border" type="solid" x="128" y="192" width="16" height="16"/>
+  <object id="57" name="Border" type="solid" x="160" y="192" width="16" height="16"/>
+  <object id="59" name="Border" type="solid" x="160" y="160" width="16" height="16"/>
+  <object id="60" name="Border" type="solid" x="192" y="160" width="16" height="16"/>
+  <object id="61" name="Border" type="solid" x="192" y="192" width="16" height="16"/>
+  <object id="64" name="Border" type="solid" x="224" y="160" width="16" height="16"/>
+  <object id="65" name="Border" type="solid" x="224" y="192" width="16" height="16"/>
+  <object id="66" name="Border" type="solid" x="256" y="192" width="16" height="16"/>
+  <object id="68" name="Border" type="solid" x="288" y="192" width="16" height="16"/>
+  <object id="69" name="Border" type="solid" x="288" y="160" width="16" height="16"/>
+  <object id="70" name="Border" type="solid" x="288" y="64" width="16" height="16"/>
+  <object id="71" name="Border" type="solid" x="256" y="96" width="16" height="16"/>
+  <object id="72" name="Border" type="solid" x="288" y="32" width="16" height="16"/>
+  <object id="82" name="Border" type="solid" x="320" y="32" width="16" height="16"/>
+  <object id="85" name="Border" type="solid" x="320" y="64" width="16" height="16"/>
+  <object id="86" name="Border" type="solid" x="352" y="32" width="16" height="16"/>
+  <object id="87" name="Border" type="solid" x="352" y="64" width="16" height="16"/>
+  <object id="88" name="Border" type="solid" x="384" y="64" width="16" height="16"/>
+  <object id="89" name="Border" type="solid" x="384" y="32" width="16" height="16"/>
+  <object id="91" name="Border" type="solid" x="320" y="96" width="16" height="16"/>
+  <object id="92" name="Border" type="solid" x="320" y="128" width="16" height="16"/>
+  <object id="93" name="Border" type="solid" x="320" y="160" width="16" height="16"/>
+  <object id="100" name="Border" type="solid" x="320" y="192" width="16" height="16"/>
+  <object id="101" name="Border" type="solid" x="352" y="192" width="16" height="16"/>
+  <object id="102" name="Border" type="solid" x="384" y="192" width="16" height="16"/>
+  <object id="103" name="Border" type="solid" x="384" y="160" width="16" height="16"/>
+  <object id="104" name="Border" type="solid" x="352" y="160" width="16" height="16"/>
+  <object id="105" name="Border" type="solid" x="384" y="96" width="16" height="16"/>
+  <object id="106" name="Border" type="solid" x="384" y="128" width="16" height="16"/>
+  <object id="107" name="Border" type="solid" x="416" y="32" width="16" height="16"/>
+  <object id="108" name="Border" type="solid" x="416" y="64" width="16" height="16"/>
+  <object id="109" name="Border" type="solid" x="416" y="96" width="16" height="16"/>
+  <object id="110" name="Border" type="solid" x="416" y="128" width="16" height="16"/>
+  <object id="111" name="Border" type="solid" x="416" y="160" width="16" height="16"/>
+  <object id="112" name="Border" type="solid" x="416" y="192" width="16" height="16"/>
+  <object id="113" name="Border" type="solid" x="448" y="192" width="16" height="16"/>
+  <object id="114" name="Border" type="solid" x="448" y="160" width="16" height="16"/>
+  <object id="115" name="Border" type="solid" x="448" y="128" width="16" height="16"/>
+  <object id="116" name="Border" type="solid" x="448" y="96" width="16" height="16"/>
+  <object id="117" name="Border" type="solid" x="448" y="64" width="16" height="16"/>
+  <object id="118" name="Border" type="solid" x="448" y="32" width="16" height="16"/>
+  <object id="239" name="Border" type="solid" x="0" y="0" width="16" height="16"/>
+  <object id="240" name="Border" type="solid" x="16" y="0" width="16" height="16"/>
+  <object id="241" name="Border" type="solid" x="32" y="0" width="16" height="16"/>
+  <object id="242" name="Border" type="solid" x="48" y="0" width="16" height="16"/>
+  <object id="243" name="Border" type="solid" x="64" y="0" width="16" height="16"/>
+  <object id="244" name="Border" type="solid" x="80" y="0" width="16" height="16"/>
+  <object id="245" name="Border" type="solid" x="128" y="64" width="16" height="16"/>
+  <object id="246" name="Border" type="solid" x="128" y="80" width="16" height="16"/>
+  <object id="247" name="Border" type="solid" x="128" y="96" width="16" height="16"/>
+  <object id="248" name="Border" type="solid" x="96" y="96" width="16" height="16"/>
+  <object id="249" name="Border" type="solid" x="96" y="128" width="16" height="16"/>
+  <object id="250" name="Border" type="solid" x="96" y="112" width="16" height="16"/>
+  <object id="251" name="Border" type="solid" x="128" y="128" width="16" height="16"/>
+  <object id="252" name="Border" type="solid" x="128" y="144" width="16" height="16"/>
+  <object id="253" name="Border" type="solid" x="128" y="160" width="16" height="16"/>
+  <object id="254" name="Border" type="solid" x="160" y="96" width="16" height="16"/>
+  <object id="255" name="Border" type="solid" x="160" y="112" width="16" height="16"/>
+  <object id="256" name="Border" type="solid" x="160" y="128" width="16" height="16"/>
+  <object id="257" name="Border" type="solid" x="192" y="96" width="16" height="16"/>
+  <object id="258" name="Border" type="solid" x="192" y="112" width="16" height="16"/>
+  <object id="259" name="Border" type="solid" x="192" y="128" width="16" height="16"/>
+  <object id="260" name="Border" type="solid" x="224" y="96" width="16" height="16"/>
+  <object id="261" name="Border" type="solid" x="224" y="112" width="16" height="16"/>
+  <object id="262" name="Border" type="solid" x="224" y="128" width="16" height="16"/>
+  <object id="263" name="Border" type="solid" x="288" y="96" width="16" height="16"/>
+  <object id="264" name="Border" type="solid" x="288" y="112" width="16" height="16"/>
+  <object id="265" name="Border" type="solid" x="288" y="128" width="16" height="16"/>
+  <object id="266" name="Border" type="solid" x="256" y="128" width="16" height="16"/>
+  <object id="267" name="Border" type="solid" x="256" y="144" width="16" height="16"/>
+  <object id="268" name="Border" type="solid" x="256" y="160" width="16" height="16"/>
+  <object id="269" name="Border" type="solid" x="96" y="0" width="16" height="16"/>
+  <object id="270" name="Border" type="solid" x="112" y="0" width="16" height="16"/>
+  <object id="271" name="Border" type="solid" x="128" y="0" width="16" height="16"/>
+  <object id="272" name="Border" type="solid" x="144" y="0" width="16" height="16"/>
+  <object id="273" name="Border" type="solid" x="160" y="0" width="16" height="16"/>
+  <object id="275" name="Border" type="solid" x="176" y="0" width="16" height="16"/>
+  <object id="276" name="Border" type="solid" x="192" y="0" width="16" height="16"/>
+  <object id="277" name="Border" type="solid" x="208" y="0" width="16" height="16"/>
+  <object id="278" name="Border" type="solid" x="224" y="0" width="16" height="16"/>
+  <object id="279" name="Border" type="solid" x="240" y="0" width="16" height="16"/>
+  <object id="280" name="Border" type="solid" x="256" y="0" width="16" height="16"/>
+  <object id="281" name="Border" type="solid" x="272" y="0" width="16" height="16"/>
+  <object id="282" name="Border" type="solid" x="288" y="0" width="16" height="16"/>
+  <object id="283" name="Border" type="solid" x="304" y="0" width="16" height="16"/>
+  <object id="284" name="Border" type="solid" x="320" y="0" width="16" height="16"/>
+  <object id="285" name="Border" type="solid" x="336" y="0" width="16" height="16"/>
+  <object id="286" name="Border" type="solid" x="352" y="0" width="16" height="16"/>
+  <object id="287" name="Border" type="solid" x="368" y="0" width="16" height="16"/>
+  <object id="288" name="Border" type="solid" x="384" y="0" width="16" height="16"/>
+  <object id="289" name="Border" type="solid" x="400" y="0" width="16" height="16"/>
+  <object id="290" name="Border" type="solid" x="416" y="0" width="16" height="16"/>
+  <object id="291" name="Border" type="solid" x="432" y="0" width="16" height="16"/>
+  <object id="292" name="Border" type="solid" x="448" y="0" width="16" height="16"/>
+  <object id="293" name="Border" type="solid" x="464" y="0" width="16" height="16"/>
+  <object id="294" name="Border" type="solid" x="480" y="0" width="16" height="16"/>
+  <object id="295" name="Border" type="solid" x="352" y="96" width="16" height="16"/>
+  <object id="296" name="Border" type="solid" x="352" y="112" width="16" height="16"/>
+  <object id="297" name="Border" type="solid" x="352" y="128" width="16" height="16"/>
+  <object id="298" name="Border" type="solid" x="480" y="16" width="16" height="16"/>
+  <object id="299" name="Border" type="solid" x="480" y="32" width="16" height="16"/>
+  <object id="300" name="Border" type="solid" x="480" y="48" width="16" height="16"/>
+  <object id="301" name="Border" type="solid" x="480" y="64" width="16" height="16"/>
+  <object id="302" name="Border" type="solid" x="480" y="80" width="16" height="16"/>
+  <object id="303" name="Border" type="solid" x="480" y="96" width="16" height="16"/>
+  <object id="304" name="Border" type="solid" x="480" y="112" width="16" height="16"/>
+  <object id="305" name="Border" type="solid" x="480" y="128" width="16" height="16"/>
+  <object id="306" name="Border" type="solid" x="480" y="144" width="16" height="16"/>
+  <object id="307" name="Border" type="solid" x="480" y="160" width="16" height="16"/>
+  <object id="308" name="Border" type="solid" x="480" y="176" width="16" height="16"/>
+  <object id="309" name="Border" type="solid" x="480" y="192" width="16" height="16"/>
+  <object id="310" name="Border" type="solid" x="480" y="208" width="16" height="16"/>
+  <object id="311" name="Border" type="solid" x="480" y="224" width="16" height="16"/>
+  <object id="312" name="Border" type="solid" x="256" y="224" width="16" height="16"/>
+  <object id="313" name="Border" type="solid" x="272" y="224" width="16" height="16"/>
+  <object id="314" name="Border" type="solid" x="288" y="224" width="16" height="16"/>
+  <object id="315" name="Border" type="solid" x="304" y="224" width="16" height="16"/>
+  <object id="316" name="Border" type="solid" x="320" y="224" width="16" height="16"/>
+  <object id="317" name="Border" type="solid" x="336" y="224" width="16" height="16"/>
+  <object id="318" name="Border" type="solid" x="352" y="224" width="16" height="16"/>
+  <object id="319" name="Border" type="solid" x="368" y="224" width="16" height="16"/>
+  <object id="320" name="Border" type="solid" x="384" y="224" width="16" height="16"/>
+  <object id="321" name="Border" type="solid" x="400" y="224" width="16" height="16"/>
+  <object id="322" name="Border" type="solid" x="416" y="224" width="16" height="16"/>
+  <object id="323" name="Border" type="solid" x="432" y="224" width="16" height="16"/>
+  <object id="324" name="Border" type="solid" x="448" y="224" width="16" height="16"/>
+  <object id="325" name="Border" type="solid" x="464" y="224" width="16" height="16"/>
+  <object id="326" name="Border" type="solid" x="64" y="224" width="16" height="16"/>
+  <object id="327" name="Border" type="solid" x="80" y="224" width="16" height="16"/>
+  <object id="328" name="Border" type="solid" x="96" y="224" width="16" height="16"/>
+  <object id="329" name="Border" type="solid" x="112" y="224" width="16" height="16"/>
+  <object id="330" name="Border" type="solid" x="128" y="224" width="16" height="16"/>
+  <object id="331" name="Border" type="solid" x="144" y="224" width="16" height="16"/>
+  <object id="332" name="Border" type="solid" x="160" y="224" width="16" height="16"/>
+  <object id="333" name="Border" type="solid" x="176" y="224" width="16" height="16"/>
+  <object id="334" name="Border" type="solid" x="192" y="224" width="16" height="16"/>
+  <object id="335" name="Border" type="solid" x="208" y="224" width="16" height="16"/>
+  <object id="336" name="Border" type="solid" x="224" y="224" width="16" height="16"/>
+  <object id="337" name="Border" type="solid" x="240" y="224" width="16" height="16"/>
+  <object id="338" name="Border" type="solid" x="0" y="16" width="16" height="16"/>
+  <object id="339" name="Border" type="solid" x="0" y="32" width="16" height="16"/>
+  <object id="340" name="Border" type="solid" x="0" y="48" width="16" height="16"/>
+  <object id="341" name="Border" type="solid" x="0" y="64" width="16" height="16"/>
+  <object id="342" name="Border" type="solid" x="0" y="80" width="16" height="16"/>
+  <object id="343" name="Border" type="solid" x="0" y="96" width="16" height="16"/>
+  <object id="344" name="Border" type="solid" x="0" y="112" width="16" height="16"/>
+  <object id="345" name="Border" type="solid" x="0" y="128" width="16" height="16"/>
+  <object id="346" name="Border" type="solid" x="0" y="144" width="16" height="16"/>
+  <object id="347" name="Border" type="solid" x="0" y="160" width="16" height="16"/>
+  <object id="348" name="Border" type="solid" x="0" y="176" width="16" height="16"/>
+  <object id="349" name="Border" type="solid" x="0" y="192" width="16" height="16"/>
+  <object id="350" name="Border" type="solid" x="0" y="208" width="16" height="16"/>
+  <object id="351" name="Border" type="solid" x="0" y="224" width="16" height="16"/>
+  <object id="352" name="Border" type="solid" x="16" y="224" width="16" height="16"/>
+  <object id="353" name="Border" type="solid" x="32" y="224" width="16" height="16"/>
+  <object id="354" name="Border" type="solid" x="48" y="224" width="16" height="16"/>
+ </objectgroup>
+ <layer name="Brick" width="31" height="15">
+  <data>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+  </data>
+ </layer>
+ <objectgroup name="Brick">
+  <object id="355" name="Bricks" type="weak" x="48" y="16" width="16" height="16"/>
+  <object id="356" name="Bricks" type="weak" x="48" y="48" width="16" height="16"/>
+  <object id="357" name="Bricks" type="weak" x="48" y="32" width="16" height="16"/>
+  <object id="358" name="Bricks" type="weak" x="64" y="48" width="16" height="16"/>
+  <object id="359" name="Bricks" type="weak" x="16" y="48" width="16" height="16"/>
+  <object id="360" name="Bricks" type="weak" x="16" y="64" width="16" height="16"/>
+  <object id="361" name="Bricks" type="weak" x="16" y="80" width="16" height="16"/>
+  <object id="362" name="Bricks" type="weak" x="48" y="80" width="16" height="16"/>
+  <object id="363" name="Bricks" type="weak" x="64" y="80" width="16" height="16"/>
+  <object id="364" name="Bricks" type="weak" x="80" y="80" width="16" height="16"/>
+  <object id="365" name="Bricks" type="weak" x="96" y="80" width="16" height="16"/>
+  <object id="366" name="Bricks" type="weak" x="80" y="96" width="16" height="16"/>
+  <object id="367" name="Bricks" type="weak" x="80" y="112" width="16" height="16"/>
+  <object id="368" name="Bricks" type="weak" x="80" y="128" width="16" height="16"/>
+  <object id="369" name="Bricks" type="weak" x="80" y="144" width="16" height="16"/>
+  <object id="370" name="Bricks" type="weak" x="96" y="144" width="16" height="16"/>
+  <object id="371" name="Bricks" type="weak" x="112" y="160" width="16" height="16"/>
+  <object id="372" name="Bricks" type="weak" x="48" y="112" width="16" height="16"/>
+  <object id="373" name="Bricks" type="weak" x="16" y="128" width="16" height="16"/>
+  <object id="374" name="Bricks" type="weak" x="48" y="144" width="16" height="16"/>
+  <object id="375" name="Bricks" type="weak" x="16" y="176" width="16" height="16"/>
+  <object id="376" name="Bricks" type="weak" x="32" y="176" width="16" height="16"/>
+  <object id="377" name="Bricks" type="weak" x="32" y="208" width="16" height="16"/>
+  <object id="378" name="Bricks" type="weak" x="48" y="208" width="16" height="16"/>
+  <object id="379" name="Bricks" type="weak" x="64" y="176" width="16" height="16"/>
+  <object id="380" name="Bricks" type="weak" x="80" y="176" width="16" height="16"/>
+  <object id="381" name="Bricks" type="weak" x="96" y="176" width="16" height="16"/>
+  <object id="382" name="Bricks" type="weak" x="96" y="208" width="16" height="16"/>
+  <object id="383" name="Bricks" type="weak" x="112" y="208" width="16" height="16"/>
+  <object id="384" name="Bricks" type="weak" x="128" y="208" width="16" height="16"/>
+  <object id="385" name="Bricks" type="weak" x="144" y="160" width="16" height="16"/>
+  <object id="386" name="Bricks" type="weak" x="112" y="64" width="16" height="16"/>
+  <object id="387" name="Bricks" type="weak" x="96" y="48" width="16" height="16"/>
+  <object id="388" name="Bricks" type="weak" x="112" y="32" width="16" height="16"/>
+  <object id="389" name="Bricks" type="weak" x="96" y="16" width="16" height="16"/>
+  <object id="390" name="Bricks" type="weak" x="144" y="16" width="16" height="16"/>
+  <object id="391" name="Bricks" type="weak" x="160" y="16" width="16" height="16"/>
+  <object id="392" name="Bricks" type="weak" x="144" y="32" width="16" height="16"/>
+  <object id="393" name="Bricks" type="weak" x="128" y="48" width="16" height="16"/>
+  <object id="394" name="Bricks" type="weak" x="144" y="64" width="16" height="16"/>
+  <object id="395" name="Bricks" type="weak" x="160" y="48" width="16" height="16"/>
+  <object id="396" name="Bricks" type="weak" x="176" y="48" width="16" height="16"/>
+  <object id="397" name="Bricks" type="weak" x="176" y="64" width="16" height="16"/>
+  <object id="398" name="Bricks" type="weak" x="160" y="80" width="16" height="16"/>
+  <object id="399" name="Bricks" type="weak" x="160" y="144" width="16" height="16"/>
+  <object id="400" name="Bricks" type="weak" x="176" y="160" width="16" height="16"/>
+  <object id="401" name="Bricks" type="weak" x="160" y="176" width="16" height="16"/>
+  <object id="402" name="Bricks" type="weak" x="176" y="176" width="16" height="16"/>
+  <object id="403" name="Bricks" type="weak" x="176" y="192" width="16" height="16"/>
+  <object id="404" name="Bricks" type="weak" x="176" y="208" width="16" height="16"/>
+  <object id="405" name="Bricks" type="weak" x="224" y="144" width="16" height="16"/>
+  <object id="406" name="Bricks" type="weak" x="208" y="160" width="16" height="16"/>
+  <object id="407" name="Bricks" type="weak" x="240" y="160" width="16" height="16"/>
+  <object id="408" name="Bricks" type="weak" x="224" y="176" width="16" height="16"/>
+  <object id="409" name="Bricks" type="weak" x="208" y="16" width="16" height="16"/>
+  <object id="410" name="Bricks" type="weak" x="208" y="48" width="16" height="16"/>
+  <object id="411" name="Bricks" type="weak" x="208" y="64" width="16" height="16"/>
+  <object id="412" name="Bricks" type="weak" x="224" y="80" width="16" height="16"/>
+  <object id="413" name="Bricks" type="weak" x="240" y="48" width="16" height="16"/>
+  <object id="414" name="Bricks" type="weak" x="240" y="64" width="16" height="16"/>
+  <object id="415" name="Bricks" type="weak" x="256" y="16" width="16" height="16"/>
+  <object id="416" name="Bricks" type="weak" x="272" y="48" width="16" height="16"/>
+  <object id="417" name="Bricks" type="weak" x="272" y="64" width="16" height="16"/>
+  <object id="418" name="Bricks" type="weak" x="288" y="80" width="16" height="16"/>
+  <object id="419" name="Bricks" type="weak" x="272" y="128" width="16" height="16"/>
+  <object id="421" name="Bricks" type="weak" x="272" y="144" width="16" height="16"/>
+  <object id="422" name="Bricks" type="weak" x="288" y="144" width="16" height="16"/>
+  <object id="423" name="Bricks" type="weak" x="272" y="160" width="16" height="16"/>
+  <object id="424" name="Bricks" type="weak" x="272" y="176" width="16" height="16"/>
+  <object id="425" name="Bricks" type="weak" x="240" y="208" width="16" height="16"/>
+  <object id="426" name="Bricks" type="weak" x="256" y="208" width="16" height="16"/>
+  <object id="427" name="Bricks" type="weak" x="288" y="208" width="16" height="16"/>
+  <object id="428" name="Bricks" type="weak" x="304" y="208" width="16" height="16"/>
+  <object id="429" name="Bricks" type="weak" x="288" y="176" width="16" height="16"/>
+  <object id="430" name="Bricks" type="weak" x="304" y="176" width="16" height="16"/>
+  <object id="431" name="Bricks" type="weak" x="304" y="160" width="16" height="16"/>
+  <object id="432" name="Bricks" type="weak" x="320" y="176" width="16" height="16"/>
+  <object id="433" name="Bricks" type="weak" x="336" y="160" width="16" height="16"/>
+  <object id="434" name="Bricks" type="weak" x="336" y="176" width="16" height="16"/>
+  <object id="435" name="Bricks" type="weak" x="336" y="128" width="16" height="16"/>
+  <object id="436" name="Bricks" type="weak" x="336" y="96" width="16" height="16"/>
+  <object id="437" name="Bricks" type="weak" x="304" y="16" width="16" height="16"/>
+  <object id="438" name="Bricks" type="weak" x="320" y="16" width="16" height="16"/>
+  <object id="439" name="Bricks" type="weak" x="304" y="32" width="16" height="16"/>
+  <object id="440" name="Bricks" type="weak" x="304" y="48" width="16" height="16"/>
+  <object id="441" name="Bricks" type="weak" x="304" y="64" width="16" height="16"/>
+  <object id="442" name="Bricks" type="weak" x="336" y="48" width="16" height="16"/>
+  <object id="443" name="Bricks" type="weak" x="336" y="64" width="16" height="16"/>
+  <object id="444" name="Bricks" type="weak" x="352" y="80" width="16" height="16"/>
+  <object id="445" name="Bricks" type="weak" x="368" y="80" width="16" height="16"/>
+  <object id="446" name="Bricks" type="weak" x="384" y="80" width="16" height="16"/>
+  <object id="447" name="Bricks" type="weak" x="400" y="80" width="16" height="16"/>
+  <object id="448" name="Bricks" type="weak" x="368" y="48" width="16" height="16"/>
+  <object id="449" name="Bricks" type="weak" x="368" y="32" width="16" height="16"/>
+  <object id="450" name="Bricks" type="weak" x="368" y="16" width="16" height="16"/>
+  <object id="451" name="Bricks" type="weak" x="384" y="16" width="16" height="16"/>
+  <object id="452" name="Bricks" type="weak" x="400" y="16" width="16" height="16"/>
+  <object id="453" name="Bricks" type="weak" x="400" y="48" width="16" height="16"/>
+  <object id="454" name="Bricks" type="weak" x="400" y="32" width="16" height="16"/>
+  <object id="455" name="Bricks" type="weak" x="384" y="48" width="16" height="16"/>
+  <object id="456" name="Bricks" type="weak" x="368" y="112" width="16" height="16"/>
+  <object id="457" name="Bricks" type="weak" x="384" y="112" width="16" height="16"/>
+  <object id="459" name="Bricks" type="weak" x="400" y="112" width="16" height="16"/>
+  <object id="460" name="Bricks" type="weak" x="352" y="144" width="16" height="16"/>
+  <object id="461" name="Bricks" type="weak" x="368" y="144" width="16" height="16"/>
+  <object id="462" name="Bricks" type="weak" x="352" y="176" width="16" height="16"/>
+  <object id="463" name="Bricks" type="weak" x="368" y="176" width="16" height="16"/>
+  <object id="464" name="Bricks" type="weak" x="384" y="176" width="16" height="16"/>
+  <object id="465" name="Bricks" type="weak" x="400" y="176" width="16" height="16"/>
+  <object id="466" name="Bricks" type="weak" x="368" y="192" width="16" height="16"/>
+  <object id="467" name="Bricks" type="weak" x="368" y="208" width="16" height="16"/>
+  <object id="468" name="Bricks" type="weak" x="384" y="208" width="16" height="16"/>
+  <object id="469" name="Bricks" type="weak" x="400" y="208" width="16" height="16"/>
+  <object id="470" name="Bricks" type="weak" x="432" y="16" width="16" height="16"/>
+  <object id="471" name="Bricks" type="weak" x="432" y="32" width="16" height="16"/>
+  <object id="472" name="Bricks" type="weak" x="432" y="48" width="16" height="16"/>
+  <object id="473" name="Bricks" type="weak" x="448" y="48" width="16" height="16"/>
+  <object id="475" name="Bricks" type="weak" x="464" y="48" width="16" height="16"/>
+  <object id="476" name="Bricks" type="weak" x="464" y="80" width="16" height="16"/>
+  <object id="479" name="Bricks" type="weak" x="448" y="80" width="16" height="16"/>
+  <object id="481" name="Bricks" type="weak" x="432" y="96" width="16" height="16"/>
+  <object id="482" name="Bricks" type="weak" x="432" y="112" width="16" height="16"/>
+  <object id="483" name="Bricks" type="weak" x="432" y="128" width="16" height="16"/>
+  <object id="484" name="Bricks" type="weak" x="432" y="144" width="16" height="16"/>
+  <object id="485" name="Bricks" type="weak" x="464" y="112" width="16" height="16"/>
+  <object id="486" name="Bricks" type="weak" x="464" y="128" width="16" height="16"/>
+  <object id="487" name="Bricks" type="weak" x="464" y="160" width="16" height="16"/>
+  <object id="488" name="Bricks" type="weak" x="416" y="176" width="16" height="16"/>
+  <object id="489" name="Bricks" type="weak" x="432" y="176" width="16" height="16"/>
+  <object id="490" name="Bricks" type="weak" x="464" y="176" width="16" height="16"/>
+  <object id="491" name="Bricks" type="weak" x="464" y="192" width="16" height="16"/>
+ </objectgroup>
+ <layer name="Enemies " width="31" height="15">
+  <data>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+  </data>
+ </layer>
+ <objectgroup name="Enemies">
+  <object id="217" name="Enemies" type="enemy" x="80" y="48" width="16" height="16"/>
+  <object id="218" name="Enemies" type="enemy" x="16" y="112" width="16" height="16"/>
+  <object id="219" name="Enemies" type="enemy" x="16" y="208" width="16" height="16"/>
+  <object id="220" name="Enemies" type="enemy" x="112" y="112" width="16" height="16"/>
+  <object id="221" name="Enemies" type="enemy" x="144" y="48" width="16" height="16"/>
+  <object id="222" name="Enemies" type="enemy" x="176" y="16" width="16" height="16"/>
+  <object id="223" name="Enemies" type="enemy" x="240" y="32" width="16" height="16"/>
+  <object id="224" name="Enemies" type="enemy" x="272" y="96" width="16" height="16"/>
+  <object id="225" name="Enemies" type="enemy" x="208" y="112" width="16" height="16"/>
+  <object id="226" name="Enemies" type="enemy" x="176" y="128" width="16" height="16"/>
+  <object id="227" name="Enemies" type="enemy" x="144" y="192" width="16" height="16"/>
+  <object id="228" name="Enemies" type="enemy" x="208" y="208" width="16" height="16"/>
+  <object id="229" name="Enemies" type="enemy" x="304" y="96" width="16" height="16"/>
+  <object id="230" name="Enemies" type="enemy" x="304" y="112" width="16" height="16"/>
+  <object id="233" name="Enemies" type="enemy" x="336" y="16" width="16" height="16"/>
+  <object id="234" name="Enemies" type="enemy" x="416" y="80" width="16" height="16"/>
+  <object id="235" name="Enemies" type="enemy" x="400" y="144" width="16" height="16"/>
+  <object id="236" name="Enemies" type="enemy" x="336" y="208" width="16" height="16"/>
+  <object id="237" name="Enemies" type="enemy" x="432" y="208" width="16" height="16"/>
+  <object id="238" name="Enemies" type="enemy" x="464" y="16" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="Player">
+  <object id="216" name="Player" x="16" y="16" width="16" height="16"/>
+ </objectgroup>
+</map>
